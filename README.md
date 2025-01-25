@@ -1,49 +1,33 @@
-# Fylo dark theme landing page
+# Equalizer Landing Page
 
-This is a figma to code solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
+## 🚀 Features
 
-## Table of contents
+- Optimal layout depending on their device's screen size.
+- See hover states for interactive elements.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+## 🛠️ Technologies Used
 
-## Overview
+- **Next.js**: React framework for building modern web applications.
+- **TypeScript**: For type-safe development.
+- **Tailwind**: Utility first CSS framework.
+- **ShadCN**: Component library for React.
 
-### Users should be able to:
+## 🌐 Live Demo
 
-- View the optimal layout for the site based on their device's screen size
-- See hover states for all interactive elements on the page
-- Toggle between light and dark mode using a button
-- Receive an error when entering an email in an invalid format
+- <a href="https://fylo-landing-page-with-dark-theme-five.vercel.app" target="_blank">Live Demo</a>
 
-### Screenshot
+## 🌟 Lighthouse Score
 
-![](./preview.jpg)
+<div align="center">
+  <img src="./lighthouse-fylo.png" alt="Lighthouse Score" width="400">
+</div>
 
-### Links
+## 🌄 Preview
 
-- Live Site URL: [Vercel](https://fylo-landing-page-with-dark-theme-five.vercel.app)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS
-- Flexbox
-- Mobile-first workflow
-- [React](https://react.dev/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Tailwind CSS](https://styled-components.com/) - For styles
+<div align="center">
+  <img src="./preview.jpg" alt="Preview" width="800">
+</div>
 
 ## Author
 
 - LinkedIn - [Gümrah Sindar](https://www.linkedin.com/in/gumrahsindar/)
-- Frontend Mentor - [@gumrahsindar](https://www.frontendmentor.io/profile/gumrahsindar)
-- Twitter - [@gmrhsndr](https://twitter.com/gmrhsndr)
