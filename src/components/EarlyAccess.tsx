@@ -3,7 +3,7 @@ const EarlyAccess = () => {
     <section id="earlt-access" className="relative px-6 dark:bg-darkBlue2 md:px-0">
       {/* Early Access Container */}
       <div className="relative -top-40 mx-auto max-w-4xl space-y-6 rounded-lg bg-gray-200 p-10 px-6 text-center dark:bg-darkBlue1 md:px-16">
-        <h5 className="text-2xl font-bold">Get early access today</h5>
+        <h4 className="text-2xl font-bold">Get early access today</h4>
         <p className="text-sm">
           It only takes a minute to sign up and our free starter tier is extremely generous. If you have any questions,
           our support team would be happy to help you.

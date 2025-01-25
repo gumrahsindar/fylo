@@ -18,7 +18,7 @@ const Testimonials = () => {
             <div className="flex space-x-4">
               <img src="/profile-1.jpg" alt="avatar" className="h-10 w-10 rounded-full" />
               <div>
-                <h5 className="text-sm font-semibold">Satish Patel</h5>
+                <h4 className="text-sm font-semibold">Satish Patel</h4>
                 <p className="text-xs font-extralight">Founder & CEO Huddle</p>
               </div>
             </div>
@@ -33,7 +33,7 @@ const Testimonials = () => {
             <div className="flex space-x-4">
               <img src="/profile-2.jpg" alt="avatar" className="h-10 w-10 rounded-full" />
               <div>
-                <h5 className="text-sm font-semibold">Bruce Mckenzie</h5>
+                <h4 className="text-sm font-semibold">Bruce Mckenzie</h4>
                 <p className="text-xs font-extralight">Founder & CEO Huddle</p>
               </div>
             </div>
@@ -48,7 +48,7 @@ const Testimonials = () => {
             <div className="flex space-x-4">
               <img src="/profile-3.jpg" alt="avatar" className="h-10 w-10 rounded-full" />
               <div>
-                <h5 className="text-sm font-semibold">Iva Boyd</h5>
+                <h4 className="text-sm font-semibold">Iva Boyd</h4>
                 <p className="text-xs font-extralight">Founder & CEO Huddle</p>
               </div>
             </div>
