@@ -24,7 +24,7 @@ const Productive = () => {
 
           {/* Link */}
           <div className="mt-4">
-            <a href="#" className="border-b border-accentCyan text-accentCyan">
+            <a href="#" className="border-b border-accentCyan text-[#18817A] dark:text-[#24C2B7] ">
               See how Fylo works <img src="/icon-arrow.svg" alt="arrow" className="ml-2 inline-block" />
             </a>
           </div>

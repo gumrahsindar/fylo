@@ -52,7 +52,7 @@ const Footer = () => {
           {/* Social Media */}
           <div className=" flex justify-center space-x-3 pb-10 ">
             <div>
-              <a href="#">
+              <a href="#" aria-label="Facebook" title="Facebook">
                 <svg
                   className="duration-200 hover:fill-accentCyan hover:stroke-accentCyan"
                   xmlns="http://www.w3.org/2000/svg"
@@ -71,7 +71,7 @@ const Footer = () => {
               </a>
             </div>
             <div>
-              <a href="#">
+              <a href="#" aria-label="Twitter" title="Twitter">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="duration-200 hover:fill-accentCyan hover:stroke-accentCyan"
@@ -90,7 +90,7 @@ const Footer = () => {
               </a>
             </div>
             <div>
-              <a href="#">
+              <a href="#" aria-label="Instagram" title="Instagram">
                 <svg
                   className="duration-200 hover:stroke-accentCyan"
                   xmlns="http://www.w3.org/2000/svg"
